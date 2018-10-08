@@ -1,5 +1,5 @@
 {
-    "name": "wordpress-ja-pg4wp2-heroku",
+    "name": "heroku-starter-wp-pg",
     "description": "WordPress-4.9.6-tw pg4wp2 PostgreSQL on Heroku",
     "keywords": [
         "Blog",
@@ -7,8 +7,8 @@
         "WordPress",
         "PostgreSQL"
     ],
-    "website": "https://github.com/goosocial/wordpress-tw-pg4wp2-heroku",
-    "repository": "https://github.com/goosocial/wordpress-tw-pg4wp2-heroku",
+    "website": "https://github.com/goosocial/heroku-starter-wp-pg",
+    "repository": "https://github.com/goosocial/heroku-starter-wp-pg",
     "success_url": "/",
     "env": {
         "AUTH_KEY": {
